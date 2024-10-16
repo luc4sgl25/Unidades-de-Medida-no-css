@@ -1,0 +1,29 @@
+h1{
+    color: red;
+}
+
+.div1 {
+    position: relative;
+    background-color: rgb(71, 100, 109);
+    border-radius: 5px;
+    color: #000000;
+    display: inline-flex;
+    font-family: cursive;
+    padding: 15px;
+  }
+  
+.div2 {
+    position: relative;
+    background-color: rgb(52, 73, 45);
+    color: #000000;
+    display: inline-flex;
+    font-family: cursive;
+    padding: 15px;
+    width: 700px;
+    height: 823px;
+    overflow: auto; 
+    border: 1px solid #000;
+  }
+  .h{
+    text-align: justify;
+  }
